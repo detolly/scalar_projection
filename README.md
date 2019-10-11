@@ -2,7 +2,7 @@
 
 This should be very easy to port to any programming language.  
 
-![Triangle should be here](triangle.PNG "Triangle")
+![Triangle should be here](triangle.png "Triangle")
 ![Formula should be here](formula.PNG "Formula")
 
 The explanation is quite simple to understand.
